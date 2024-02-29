@@ -1,1 +1,1 @@
-# Georgia Tech CS 2110 _ Computer Organization
+# Georgia Tech CS _ Computer Organization
