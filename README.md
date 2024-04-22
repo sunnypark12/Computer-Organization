@@ -1,1 +1,1 @@
-# Georgia Tech CS _ Computer Organization
+# Computer Organization
